@@ -1,11 +1,14 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:physics.chem-ph'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
-
+        ion: 1
+        reaction: 1
+        cross section: 2
+        ion beam: 3
+        ion molecule: 3
+        guided ion beam: 4
+        
 # 通知の閾値
 score_threshold: 0
